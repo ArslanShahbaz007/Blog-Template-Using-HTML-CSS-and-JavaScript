@@ -1,0 +1,35 @@
+
+/* .post-img{
+height: 40px;
+background-color: black;
+} */
+
+.post-img img{
+    width: 100%;
+
+    
+}
+
+.post-img{
+    height: 400px;
+    overflow: hidden; 
+    margin-top: 20px;
+    margin-bottom: 20px;  
+}
+
+.blog-content h1{
+    text-align: center;
+}
+
+.blog-content p{
+   margin: 25px;
+   font-size: 20px;
+}
+
+.authorinfo{
+    margin-left: 25px;
+}
+
+.space{
+    margin-top: 10px;
+}
